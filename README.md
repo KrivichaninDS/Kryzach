@@ -1,3 +1,0 @@
-Kryzach
-=======
-Hello World!
